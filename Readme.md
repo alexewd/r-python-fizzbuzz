@@ -1,6 +1,6 @@
 # Fizz Buzz for R and Python — An Interview Questions for Data Scientist
 
-![Title](https://github.com/robertdefilippi/r-python-fizzbuzz/blob/header.png?raw=true)
+![Title](https://github.com/robertdefilippi/r-python-fizzbuzz/blob/master/header.png)
 
 A short repo on how to solve the classic fizz buzz interview question. 
 
