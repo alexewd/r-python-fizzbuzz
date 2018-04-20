@@ -8,7 +8,7 @@ Done both in Python and R, as those are the main languages for Data Scientsts.
 
 ### Notebook
 
-Both examples are stored in FizzBuzz.py and FizzBuzz.r
+Both examples are stored in [FizzBuzz.py](https://github.com/robertdefilippi/r-python-fizzbuzz/blob/master/FizzBuzz.py) and [FizzBuzz.r](https://github.com/robertdefilippi/r-python-fizzbuzz/blob/master/FizzBuzz.R)
 
 ### Citations
 
